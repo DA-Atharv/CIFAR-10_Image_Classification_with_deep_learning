@@ -34,7 +34,7 @@ The goal of this project is to classify images into one of ten categories: airpl
 + Optimizer: Adam.
 + Loss Function: Sparse Categorical Cross-Entropy.
 + Metrics: Accuracy.
-### Training:
+#### Training:
 + The CNN model is trained for 20 epochs on the training dataset.
 
 ### 3. Evaluation and Outcome:
